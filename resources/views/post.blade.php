@@ -9,6 +9,6 @@
         </div>
     </article>
     
-    <a href="/">Atras</a>
+    <a href="/">Atras...</a>
 </x-layout>
     
